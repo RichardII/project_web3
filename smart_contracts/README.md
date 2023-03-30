@@ -14,6 +14,8 @@ npx hardhat run scripts/deploy.js
 
 ```
 
+https://hardhat.org/hardhat-runner/docs/getting-started#overview
+
 
 # project_web3
 
